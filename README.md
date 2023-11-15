@@ -13,6 +13,10 @@ AOT,
 RASCEF,
 REACT,
 
+Link for Colab:
+
+https://colab.research.google.com/github/saipragna25/Special_topics_Advanced_prompt_engineering_strategies/blob/main/ST_Adv_prompt_eng_a.ipynb
+
 
 b) Write 21 different prompt templates in class slides practical examples in colab (success and failur cases)
 
